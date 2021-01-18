@@ -1,3 +1,11 @@
+#Introduction
+Le projet est disponible sous licence GPL V3. 
+
+Merci bien lire la licence avant de vendre un produit ou d'utiliser le code.
+
+N'hésiter pas à faire remonter vos avis et vos souhaits.
+
+
 # pintv
 
 req :
