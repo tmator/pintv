@@ -1,10 +1,28 @@
 #Introduction
-Le projet est disponible sous licence GPL V3. 
 
-Merci bien lire la licence avant de vendre un produit ou d'utiliser le code.
+PinTV est distribué sour licence GPL.
+
+Vous avez le droit de vendre des mods utilisant PinTV, je vous demande juste de :
+- respecter la licence
+- laisser la première image de boot
+- citer le projet et le lien vers le projet github : https://github.com/tmator/pintv
+
+
+Enjoy,
+Brice.
 
 N'hésiter pas à faire remonter vos avis et vos souhaits.
 
+# Télécharger la dernière version
+
+Nouveautées et explications :
+- changement du player (plus rapide)
+- vous pouvez modifier la deuxième image affiché au boot en remplacant le fichier splash.png dans /boot (lecteur boot sous windows)
+- vous n'avez ensuie qu'a mettre vos vidéos (recommandé 640x480 avi xvid) dans le dossier pintv de la partition share
+
+Vous pouvez trouver la dernière image pour raspi ici : https://drive.google.com/drive/folders/1wsidyBMAH21yRGcpMR4OQpSB_Tw288Xh?usp=sharing
+
+-----------------------------------------------------------------------
 
 # pintv
 
